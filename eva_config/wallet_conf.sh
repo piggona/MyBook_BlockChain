@@ -1,0 +1,1 @@
+/Applications/Ethereum\ Wallet.app/Contents/MacOS/Ethereum\ Wallet --rpc//192.168.50.2:8848
